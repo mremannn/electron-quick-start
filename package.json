@@ -1,7 +1,7 @@
 {
-  "name": "electron-quick-start",
+  "name": "youtube-dl-download-tool",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "make youtube-dl commands",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
